@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Basic Math Formula</string>
+    <string name="shape">Shape</string>
+    <string name="formula">Formula</string>
+    <string name="type">Type</string>
+</resources>
